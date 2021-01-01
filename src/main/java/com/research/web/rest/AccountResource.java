@@ -42,6 +42,9 @@ public class AccountResource {
         this.userRepository = userRepository;
         this.userService = userService;
         this.mailService = mailService;
+
+
+        
     }
 
     /**
